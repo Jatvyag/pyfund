@@ -1,0 +1,4 @@
+.venv
+*gradebook.db
+course_id/nbgrader_config.py
+course_id/source
